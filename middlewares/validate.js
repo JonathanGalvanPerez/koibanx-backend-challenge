@@ -1,4 +1,5 @@
 const { validationResult, checkSchema } = require('express-validator');
+const logger = require('../utils/logger');
 
 exports.getCommerces = [
   checkSchema(
@@ -139,18 +140,13 @@ exports.postCommerce = [
     },
     ['body']
   ),
-  (req, res, next) => {
-    const errors = validationResult(req);
-    if (!errors.isEmpty())
-      return res.status(400).json({ errors: errors.array() });
-    return next();
-  },
+  validationResponse
 ];
 
 function validationResponse(req, res, next) {
   const errors = validationResult(req);
   if (!errors.isEmpty())
     return res.status(400).json({ errors: errors.array() });
-  console.log('Validations successful.');
+  logger.info('Validations successful.');
   return next();
 }
