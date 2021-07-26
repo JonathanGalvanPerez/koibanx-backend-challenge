@@ -5,7 +5,7 @@ module.exports = {
     'password': process.env.DATABASE_PASSWORD,
     'host': process.env.DATABASE_HOST,
     'port': process.env.DATABASE_PORT,
-    'dbname': process.env.DATABASE_DBNAME,
+    'dbname': process.env.TEST_DATABASE_DBNAME,
     'address': process.env.DATABASE_HOST + ':' + process.env.DATABASE_PORT
   },
 };
