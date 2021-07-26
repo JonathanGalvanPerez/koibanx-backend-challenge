@@ -1,0 +1,802 @@
+[
+  {
+    "name": "Swift, Kling and Boyer",
+    "cuit": "512964344-5",
+    "concepts": [9356, 59701, 41023, 59176, 14792, 3032],
+    "currentBalance": 710745,
+    "active": false,
+    "lastSale": "2021-04-18T18:25:13Z"
+  },
+  {
+    "name": "Schaden-Marks",
+    "cuit": "066931621-0",
+    "concepts": [56714, 47476, 72036, 82931, 35549, 10122],
+    "currentBalance": 57987,
+    "active": false,
+    "lastSale": "2018-07-21T06:17:09Z"
+  },
+  {
+    "name": "Strosin, Howe and West",
+    "cuit": "833249020-0",
+    "concepts": [48855, 5991, 49640, 74052, 15337, 1255],
+    "currentBalance": 337120,
+    "active": false,
+    "lastSale": "2020-10-24T09:28:28Z"
+  },
+  {
+    "name": "Walker, Ziemann and Murray",
+    "cuit": "038539871-9",
+    "concepts": [34729, 5571, 66136, 33902, 5752, 43735],
+    "currentBalance": 892876,
+    "active": false,
+    "lastSale": "2019-07-18T10:56:34Z"
+  },
+  {
+    "name": "Jakubowski, Johnson and Kuhic",
+    "cuit": "414032214-4",
+    "concepts": [12398, 57987, 42566, 49102, 20910, 26549],
+    "currentBalance": 381558,
+    "active": true,
+    "lastSale": "2018-07-20T12:23:49Z"
+  },
+  {
+    "name": "Rippin-McCullough",
+    "cuit": "272801655-0",
+    "concepts": [57993, 61165, 84671, 30095, 70092, 17039],
+    "currentBalance": 592517,
+    "active": false,
+    "lastSale": "2020-12-21T05:53:19Z"
+  },
+  {
+    "name": "Kertzmann Inc",
+    "cuit": "427732392-8",
+    "concepts": [87319, 61753, 64991, 79006, 90320, 23386],
+    "currentBalance": 317284,
+    "active": false,
+    "lastSale": "2019-02-09T18:23:42Z"
+  },
+  {
+    "name": "Funk LLC",
+    "cuit": "898513650-X",
+    "concepts": [22078, 68594, 11486, 40217, 36416, 21140],
+    "currentBalance": 306440,
+    "active": true,
+    "lastSale": "2018-07-30T16:54:52Z"
+  },
+  {
+    "name": "Kuphal, King and Ebert",
+    "cuit": "178690398-9",
+    "concepts": [68687, 6236, 80936, 6358, 33721, 10486],
+    "currentBalance": 26621,
+    "active": false,
+    "lastSale": "2018-12-27T21:27:09Z"
+  },
+  {
+    "name": "Jakubowski-Swift",
+    "cuit": "654451393-8",
+    "concepts": [24636, 22360, 57839, 99333, 86017, 31048],
+    "currentBalance": 12382,
+    "active": true,
+    "lastSale": "2020-01-20T21:18:36Z"
+  },
+  {
+    "name": "Wiza Inc",
+    "cuit": "762576891-0",
+    "concepts": [32720, 94072, 46875, 78121, 21836, 17033],
+    "currentBalance": 915187,
+    "active": true,
+    "lastSale": "2020-11-21T10:43:26Z"
+  },
+  {
+    "name": "Bednar Inc",
+    "cuit": "544354797-6",
+    "concepts": [63162, 9480, 56940, 33846, 16371, 49495],
+    "currentBalance": 865183,
+    "active": false,
+    "lastSale": "2019-03-21T07:14:53Z"
+  },
+  {
+    "name": "Walker Group",
+    "cuit": "843064033-9",
+    "concepts": [4086, 42894, 55743, 47108, 27620, 5002],
+    "currentBalance": 26304,
+    "active": true,
+    "lastSale": "2018-01-11T02:29:45Z"
+  },
+  {
+    "name": "Koelpin Group",
+    "cuit": "023811974-2",
+    "concepts": [49407, 63621, 10294, 40348, 54605, 11623],
+    "currentBalance": 253811,
+    "active": true,
+    "lastSale": "2019-03-21T04:29:00Z"
+  },
+  {
+    "name": "Gulgowski-Padberg",
+    "cuit": "141281092-2",
+    "concepts": [97413, 85318, 57859, 7481, 4885, 19736],
+    "currentBalance": 455543,
+    "active": false,
+    "lastSale": "2019-12-29T04:19:59Z"
+  },
+  {
+    "name": "Gerhold-Muller",
+    "cuit": "362973074-4",
+    "concepts": [27418, 91955, 80635, 8883, 2742, 18581],
+    "currentBalance": 887021,
+    "active": false,
+    "lastSale": "2021-03-11T13:23:38Z"
+  },
+  {
+    "name": "Terry Group",
+    "cuit": "721233324-7",
+    "concepts": [16841, 35817, 31898, 34143, 17596, 43395],
+    "currentBalance": 903142,
+    "active": false,
+    "lastSale": "2020-03-06T15:33:48Z"
+  },
+  {
+    "name": "Goodwin, Runolfsdottir and Harber",
+    "cuit": "379494757-6",
+    "concepts": [4138, 98470, 94427, 85056, 80447, 21140],
+    "currentBalance": 62488,
+    "active": false,
+    "lastSale": "2018-07-20T00:01:50Z"
+  },
+  {
+    "name": "Zulauf, Koelpin and Mohr",
+    "cuit": "723006238-1",
+    "concepts": [45232, 39558, 31735, 33125, 45282, 31143],
+    "currentBalance": 357630,
+    "active": true,
+    "lastSale": "2018-05-14T06:37:37Z"
+  },
+  {
+    "name": "Larkin-Dibbert",
+    "cuit": "592857037-6",
+    "concepts": [28708, 92640, 32594, 16106, 87376, 39647],
+    "currentBalance": 915480,
+    "active": true,
+    "lastSale": "2018-08-26T00:28:18Z"
+  },
+  {
+    "name": "Walsh Inc",
+    "cuit": "665846444-8",
+    "concepts": [15419, 85856, 64071, 77401, 26205, 25939],
+    "currentBalance": 782687,
+    "active": true,
+    "lastSale": "2021-06-20T18:49:51Z"
+  },
+  {
+    "name": "Price Inc",
+    "cuit": "946447628-1",
+    "concepts": [17227, 20445, 99194, 55419, 66961, 19890],
+    "currentBalance": 718458,
+    "active": true,
+    "lastSale": "2018-09-28T16:33:43Z"
+  },
+  {
+    "name": "Yost-Schneider",
+    "cuit": "662411381-2",
+    "concepts": [63655, 24127, 4602, 43883, 63670, 12197],
+    "currentBalance": 680171,
+    "active": false,
+    "lastSale": "2019-05-28T16:32:24Z"
+  },
+  {
+    "name": "Lang-Reinger",
+    "cuit": "965749962-3",
+    "concepts": [13700, 57611, 79142, 66545, 18347, 44207],
+    "currentBalance": 89810,
+    "active": false,
+    "lastSale": "2019-10-17T22:07:56Z"
+  },
+  {
+    "name": "Davis Group",
+    "cuit": "350930632-5",
+    "concepts": [39637, 54419, 50849, 15362, 66661, 42867],
+    "currentBalance": 176248,
+    "active": true,
+    "lastSale": "2020-10-21T11:38:13Z"
+  },
+  {
+    "name": "Klocko, Thompson and Reynolds",
+    "cuit": "493295681-9",
+    "concepts": [74759, 4847, 51433, 75375, 89768, 23646],
+    "currentBalance": 773594,
+    "active": true,
+    "lastSale": "2018-01-16T04:56:44Z"
+  },
+  {
+    "name": "Haag, Mueller and Bartell",
+    "cuit": "176152444-5",
+    "concepts": [29117, 15548, 55714, 42177, 96950, 16592],
+    "currentBalance": 499782,
+    "active": true,
+    "lastSale": "2019-05-11T03:23:56Z"
+  },
+  {
+    "name": "Huel Inc",
+    "cuit": "687534876-4",
+    "concepts": [85916, 6541, 11060, 14043, 10047, 21521],
+    "currentBalance": 732677,
+    "active": true,
+    "lastSale": "2021-06-28T22:28:52Z"
+  },
+  {
+    "name": "Marks Group",
+    "cuit": "792886831-8",
+    "concepts": [35615, 33001, 2658, 62055, 15553, 30302],
+    "currentBalance": 655269,
+    "active": true,
+    "lastSale": "2018-05-04T23:14:48Z"
+  },
+  {
+    "name": "Price and Sons",
+    "cuit": "179311511-7",
+    "concepts": [81958, 44222, 84798, 76703, 70559, 4853],
+    "currentBalance": 817408,
+    "active": false,
+    "lastSale": "2019-05-12T13:44:40Z"
+  },
+  {
+    "name": "Abbott LLC",
+    "cuit": "738054911-1",
+    "concepts": [72261, 94641, 31558, 21011, 3300, 41334],
+    "currentBalance": 735633,
+    "active": false,
+    "lastSale": "2018-08-29T07:04:57Z"
+  },
+  {
+    "name": "Borer, Terry and Okuneva",
+    "cuit": "029638677-4",
+    "concepts": [61437, 95079, 88841, 50008, 3327, 3226],
+    "currentBalance": 284185,
+    "active": false,
+    "lastSale": "2019-01-28T13:48:18Z"
+  },
+  {
+    "name": "Heathcote-Crona",
+    "cuit": "441281034-8",
+    "concepts": [91837, 81102, 79369, 85963, 22414, 28796],
+    "currentBalance": 439585,
+    "active": false,
+    "lastSale": "2018-04-09T06:17:25Z"
+  },
+  {
+    "name": "Lehner-Collins",
+    "cuit": "797450738-1",
+    "concepts": [9390, 57297, 8575, 71529, 96997, 29253],
+    "currentBalance": 109427,
+    "active": false,
+    "lastSale": "2018-10-16T22:40:54Z"
+  },
+  {
+    "name": "Schneider, Stanton and Reichel",
+    "cuit": "122420235-X",
+    "concepts": [85585, 70588, 97949, 3522, 22871, 3734],
+    "currentBalance": 51474,
+    "active": false,
+    "lastSale": "2020-10-11T23:28:48Z"
+  },
+  {
+    "name": "Schiller LLC",
+    "cuit": "120543369-4",
+    "concepts": [56867, 42829, 97471, 23927, 70889, 26772],
+    "currentBalance": 925375,
+    "active": false,
+    "lastSale": "2020-06-18T09:06:27Z"
+  },
+  {
+    "name": "Wunsch-Von",
+    "cuit": "572714668-2",
+    "concepts": [99930, 21466, 12951, 16464, 31926, 17736],
+    "currentBalance": 347515,
+    "active": false,
+    "lastSale": "2018-09-18T13:54:52Z"
+  },
+  {
+    "name": "Huel and Sons",
+    "cuit": "930278923-3",
+    "concepts": [72847, 67541, 73164, 99500, 86783, 11047],
+    "currentBalance": 354909,
+    "active": false,
+    "lastSale": "2018-05-14T21:52:52Z"
+  },
+  {
+    "name": "Price LLC",
+    "cuit": "839468850-0",
+    "concepts": [23324, 68945, 63900, 63415, 40915, 20671],
+    "currentBalance": 347838,
+    "active": true,
+    "lastSale": "2019-05-05T18:44:31Z"
+  },
+  {
+    "name": "Thompson, Corkery and Halvorson",
+    "cuit": "947226329-1",
+    "concepts": [6080, 18674, 92024, 36844, 11937, 38545],
+    "currentBalance": 529522,
+    "active": true,
+    "lastSale": "2019-06-13T00:33:34Z"
+  },
+  {
+    "name": "Schamberger Inc",
+    "cuit": "032934970-8",
+    "concepts": [85295, 11852, 86394, 20842, 54227, 2516],
+    "currentBalance": 803731,
+    "active": true,
+    "lastSale": "2020-11-30T09:59:53Z"
+  },
+  {
+    "name": "Spencer-Mueller",
+    "cuit": "458886650-8",
+    "concepts": [31985, 46340, 33323, 56601, 73025, 3059],
+    "currentBalance": 188463,
+    "active": true,
+    "lastSale": "2020-08-12T10:59:29Z"
+  },
+  {
+    "name": "Mohr Group",
+    "cuit": "930518542-8",
+    "concepts": [55029, 78586, 20431, 66310, 96431, 37729],
+    "currentBalance": 481705,
+    "active": false,
+    "lastSale": "2018-10-28T06:01:28Z"
+  },
+  {
+    "name": "Lueilwitz, Walter and Dooley",
+    "cuit": "983024483-0",
+    "concepts": [48549, 18399, 28082, 81480, 16431, 22934],
+    "currentBalance": 383455,
+    "active": true,
+    "lastSale": "2019-05-05T16:47:44Z"
+  },
+  {
+    "name": "Kunze, Schaefer and Kemmer",
+    "cuit": "391350722-1",
+    "concepts": [21673, 21010, 49409, 41799, 63853, 24530],
+    "currentBalance": 665807,
+    "active": true,
+    "lastSale": "2021-06-28T05:04:51Z"
+  },
+  {
+    "name": "Feeney, Farrell and Powlowski",
+    "cuit": "399114974-5",
+    "concepts": [95963, 28122, 72273, 63112, 76718, 15940],
+    "currentBalance": 45867,
+    "active": false,
+    "lastSale": "2019-02-20T09:54:16Z"
+  },
+  {
+    "name": "Kuhlman Group",
+    "cuit": "735021774-9",
+    "concepts": [40641, 82258, 30887, 1151, 77870, 35405],
+    "currentBalance": 18898,
+    "active": false,
+    "lastSale": "2021-06-08T06:16:23Z"
+  },
+  {
+    "name": "Osinski-Bartoletti",
+    "cuit": "266670075-5",
+    "concepts": [91797, 79690, 83478, 91507, 93129, 26524],
+    "currentBalance": 546527,
+    "active": true,
+    "lastSale": "2020-08-28T07:28:20Z"
+  },
+  {
+    "name": "Boehm Inc",
+    "cuit": "506779020-2",
+    "concepts": [74000, 38654, 3009, 53718, 69547, 37892],
+    "currentBalance": 968120,
+    "active": false,
+    "lastSale": "2018-01-24T03:03:03Z"
+  },
+  {
+    "name": "Cruickshank, Bruen and Kemmer",
+    "cuit": "719389810-8",
+    "concepts": [5431, 72156, 30048, 87596, 92431, 31698],
+    "currentBalance": 836259,
+    "active": true,
+    "lastSale": "2018-03-05T16:22:35Z"
+  },
+  {
+    "name": "Rau-Davis",
+    "cuit": "808806755-3",
+    "concepts": [39167, 51164, 36416, 82673, 63827, 30002],
+    "currentBalance": 634024,
+    "active": true,
+    "lastSale": "2021-02-20T06:50:35Z"
+  },
+  {
+    "name": "Graham and Sons",
+    "cuit": "387253922-1",
+    "concepts": [78298, 91685, 20211, 76993, 66805, 45285],
+    "currentBalance": 47602,
+    "active": true,
+    "lastSale": "2020-01-03T08:28:22Z"
+  },
+  {
+    "name": "Ernser-Turner",
+    "cuit": "252603874-X",
+    "concepts": [46091, 45568, 95759, 13428, 91876, 3194],
+    "currentBalance": 469170,
+    "active": true,
+    "lastSale": "2018-03-01T02:35:49Z"
+  },
+  {
+    "name": "Ortiz, Pacocha and Upton",
+    "cuit": "632973938-2",
+    "concepts": [43633, 73729, 60020, 23493, 58492, 8937],
+    "currentBalance": 991578,
+    "active": false,
+    "lastSale": "2020-07-04T11:34:42Z"
+  },
+  {
+    "name": "Lockman, Yost and MacGyver",
+    "cuit": "071568245-8",
+    "concepts": [43326, 63290, 60181, 25807, 32236, 34945],
+    "currentBalance": 448754,
+    "active": true,
+    "lastSale": "2020-12-07T02:15:27Z"
+  },
+  {
+    "name": "Dickinson-Satterfield",
+    "cuit": "755546710-0",
+    "concepts": [35611, 15587, 99461, 91208, 74144, 45357],
+    "currentBalance": 216510,
+    "active": false,
+    "lastSale": "2019-03-16T12:53:27Z"
+  },
+  {
+    "name": "Breitenberg-McDermott",
+    "cuit": "804477087-9",
+    "concepts": [65948, 6474, 19858, 1960, 33931, 9481],
+    "currentBalance": 959309,
+    "active": true,
+    "lastSale": "2019-11-19T02:23:35Z"
+  },
+  {
+    "name": "Block and Sons",
+    "cuit": "616169723-8",
+    "concepts": [36180, 68114, 54804, 35979, 49381, 11566],
+    "currentBalance": 910453,
+    "active": false,
+    "lastSale": "2018-08-02T14:32:59Z"
+  },
+  {
+    "name": "Waters-Towne",
+    "cuit": "085787633-3",
+    "concepts": [11242, 71618, 39193, 67990, 39986, 29373],
+    "currentBalance": 950408,
+    "active": false,
+    "lastSale": "2019-12-22T20:52:24Z"
+  },
+  {
+    "name": "Hegmann-Powlowski",
+    "cuit": "285882589-0",
+    "concepts": [53600, 9459, 18129, 4352, 79520, 4447],
+    "currentBalance": 420949,
+    "active": false,
+    "lastSale": "2019-05-23T02:19:04Z"
+  },
+  {
+    "name": "Ebert, Powlowski and Schuppe",
+    "cuit": "255783159-X",
+    "concepts": [13090, 42546, 53870, 5466, 14640, 32098],
+    "currentBalance": 719857,
+    "active": true,
+    "lastSale": "2020-04-10T10:12:20Z"
+  },
+  {
+    "name": "Kuhic, Howe and Hilpert",
+    "cuit": "143576169-3",
+    "concepts": [33584, 53995, 93982, 77405, 79770, 12648],
+    "currentBalance": 716956,
+    "active": false,
+    "lastSale": "2020-06-12T17:45:27Z"
+  },
+  {
+    "name": "Haag-Balistreri",
+    "cuit": "268595978-5",
+    "concepts": [20715, 59956, 62158, 72049, 18163, 22626],
+    "currentBalance": 855182,
+    "active": false,
+    "lastSale": "2021-03-07T05:24:39Z"
+  },
+  {
+    "name": "Gibson-Flatley",
+    "cuit": "155373887-X",
+    "concepts": [23192, 6258, 29534, 5632, 65768, 38454],
+    "currentBalance": 185334,
+    "active": true,
+    "lastSale": "2019-07-24T16:47:05Z"
+  },
+  {
+    "name": "Langosh, Ondricka and Gutkowski",
+    "cuit": "087700583-4",
+    "concepts": [50231, 15006, 32889, 54552, 17652, 15365],
+    "currentBalance": 56596,
+    "active": false,
+    "lastSale": "2018-01-03T15:32:53Z"
+  },
+  {
+    "name": "Romaguera, Gulgowski and Buckridge",
+    "cuit": "127665741-2",
+    "concepts": [32894, 54484, 16796, 3059, 81875, 20859],
+    "currentBalance": 605432,
+    "active": true,
+    "lastSale": "2018-04-16T17:03:43Z"
+  },
+  {
+    "name": "Altenwerth, Hahn and Kiehn",
+    "cuit": "141618489-9",
+    "concepts": [32381, 58123, 50527, 84400, 36149, 48948],
+    "currentBalance": 259062,
+    "active": true,
+    "lastSale": "2019-07-01T23:46:44Z"
+  },
+  {
+    "name": "Hyatt-Mann",
+    "cuit": "852287291-0",
+    "concepts": [53843, 14141, 66727, 27905, 70401, 9409],
+    "currentBalance": 744293,
+    "active": true,
+    "lastSale": "2018-03-31T20:12:49Z"
+  },
+  {
+    "name": "O'Conner-Ebert",
+    "cuit": "807450034-9",
+    "concepts": [20706, 11962, 3845, 16782, 51993, 33114],
+    "currentBalance": 87130,
+    "active": true,
+    "lastSale": "2018-04-17T02:11:11Z"
+  },
+  {
+    "name": "Batz Inc",
+    "cuit": "635057317-X",
+    "concepts": [39611, 16721, 53026, 54993, 15180, 27636],
+    "currentBalance": 145482,
+    "active": false,
+    "lastSale": "2021-06-08T21:31:21Z"
+  },
+  {
+    "name": "Padberg, Miller and Padberg",
+    "cuit": "322431376-5",
+    "concepts": [12150, 37510, 45462, 6037, 16766, 3608],
+    "currentBalance": 235946,
+    "active": true,
+    "lastSale": "2020-07-01T09:53:37Z"
+  },
+  {
+    "name": "Green Inc",
+    "cuit": "203827216-6",
+    "concepts": [6152, 42334, 56690, 89825, 42117, 27918],
+    "currentBalance": 760923,
+    "active": true,
+    "lastSale": "2021-04-26T04:46:44Z"
+  },
+  {
+    "name": "Block-Willms",
+    "cuit": "456222966-7",
+    "concepts": [30462, 75812, 60371, 4957, 86833, 3810],
+    "currentBalance": 337545,
+    "active": true,
+    "lastSale": "2019-09-09T00:48:44Z"
+  },
+  {
+    "name": "Bergnaum Inc",
+    "cuit": "534176525-7",
+    "concepts": [63637, 46983, 93269, 35938, 27141, 26343],
+    "currentBalance": 486881,
+    "active": true,
+    "lastSale": "2021-04-26T00:59:15Z"
+  },
+  {
+    "name": "Pollich, Carter and Spencer",
+    "cuit": "179218200-7",
+    "concepts": [99349, 80802, 89770, 25237, 61271, 16835],
+    "currentBalance": 623327,
+    "active": true,
+    "lastSale": "2021-07-02T18:02:40Z"
+  },
+  {
+    "name": "Bins-Bayer",
+    "cuit": "364079915-1",
+    "concepts": [76665, 38401, 7796, 41482, 43215, 28250],
+    "currentBalance": 317320,
+    "active": false,
+    "lastSale": "2019-02-21T20:59:24Z"
+  },
+  {
+    "name": "Kuphal and Sons",
+    "cuit": "300210358-6",
+    "concepts": [48896, 20206, 12510, 76914, 5776, 42516],
+    "currentBalance": 419662,
+    "active": true,
+    "lastSale": "2020-06-03T19:48:18Z"
+  },
+  {
+    "name": "Herzog-Murazik",
+    "cuit": "189084157-9",
+    "concepts": [91775, 45239, 27215, 86826, 41072, 43467],
+    "currentBalance": 525727,
+    "active": false,
+    "lastSale": "2021-01-31T00:01:37Z"
+  },
+  {
+    "name": "Schimmel and Sons",
+    "cuit": "997732412-3",
+    "concepts": [79041, 49443, 17076, 18371, 33202, 5062],
+    "currentBalance": 329025,
+    "active": false,
+    "lastSale": "2020-01-30T20:16:01Z"
+  },
+  {
+    "name": "Hahn and Sons",
+    "cuit": "376738760-3",
+    "concepts": [40068, 25128, 48632, 59016, 39903, 4003],
+    "currentBalance": 127613,
+    "active": true,
+    "lastSale": "2018-06-07T01:12:21Z"
+  },
+  {
+    "name": "Moore Inc",
+    "cuit": "305985221-9",
+    "concepts": [51893, 82519, 8934, 19388, 42431, 47025],
+    "currentBalance": 770242,
+    "active": true,
+    "lastSale": "2018-06-21T15:23:44Z"
+  },
+  {
+    "name": "Thiel LLC",
+    "cuit": "590731538-5",
+    "concepts": [68634, 89470, 29975, 33031, 91956, 13398],
+    "currentBalance": 79650,
+    "active": true,
+    "lastSale": "2018-10-14T09:54:31Z"
+  },
+  {
+    "name": "Graham, Brekke and Ritchie",
+    "cuit": "034786834-7",
+    "concepts": [68848, 8082, 2135, 79594, 58137, 14527],
+    "currentBalance": 100248,
+    "active": true,
+    "lastSale": "2018-08-08T22:50:43Z"
+  },
+  {
+    "name": "Runte-Christiansen",
+    "cuit": "986983760-3",
+    "concepts": [27762, 31997, 55746, 48294, 71735, 19441],
+    "currentBalance": 605187,
+    "active": false,
+    "lastSale": "2020-07-18T10:00:09Z"
+  },
+  {
+    "name": "Hettinger-Metz",
+    "cuit": "938178500-7",
+    "concepts": [68189, 62565, 42558, 17490, 34906, 1919],
+    "currentBalance": 822204,
+    "active": true,
+    "lastSale": "2018-02-16T22:04:27Z"
+  },
+  {
+    "name": "O'Connell, Greenfelder and Wunsch",
+    "cuit": "029470980-0",
+    "concepts": [26333, 22386, 99449, 19508, 34631, 20857],
+    "currentBalance": 628044,
+    "active": false,
+    "lastSale": "2020-06-01T13:21:06Z"
+  },
+  {
+    "name": "Hartmann, Konopelski and Legros",
+    "cuit": "147504350-3",
+    "concepts": [54400, 10704, 90846, 99365, 92676, 49079],
+    "currentBalance": 99742,
+    "active": false,
+    "lastSale": "2020-12-06T03:12:34Z"
+  },
+  {
+    "name": "Mitchell and Sons",
+    "cuit": "411306210-2",
+    "concepts": [28232, 61984, 23349, 28378, 65755, 17631],
+    "currentBalance": 902551,
+    "active": true,
+    "lastSale": "2019-06-19T00:09:20Z"
+  },
+  {
+    "name": "Mosciski-Blanda",
+    "cuit": "800678567-8",
+    "concepts": [6913, 72497, 92694, 8254, 53032, 29957],
+    "currentBalance": 542241,
+    "active": false,
+    "lastSale": "2018-07-27T17:22:51Z"
+  },
+  {
+    "name": "Crooks-Rowe",
+    "cuit": "824586802-7",
+    "concepts": [54229, 90546, 32149, 86187, 72877, 32031],
+    "currentBalance": 509012,
+    "active": false,
+    "lastSale": "2020-06-29T15:05:40Z"
+  },
+  {
+    "name": "Muller, Rutherford and Stehr",
+    "cuit": "034223992-9",
+    "concepts": [23914, 11505, 82077, 32021, 89908, 8641],
+    "currentBalance": 766353,
+    "active": true,
+    "lastSale": "2019-08-24T02:41:40Z"
+  },
+  {
+    "name": "Hyatt and Sons",
+    "cuit": "378257361-7",
+    "concepts": [56510, 74755, 47016, 42871, 90165, 39409],
+    "currentBalance": 412394,
+    "active": true,
+    "lastSale": "2019-06-30T21:37:26Z"
+  },
+  {
+    "name": "Torphy Group",
+    "cuit": "656594521-7",
+    "concepts": [38329, 80896, 35917, 27544, 45745, 45792],
+    "currentBalance": 780121,
+    "active": true,
+    "lastSale": "2020-08-30T03:47:02Z"
+  },
+  {
+    "name": "Price-Upton",
+    "cuit": "336391785-6",
+    "concepts": [36974, 30499, 82227, 68313, 17634, 27364],
+    "currentBalance": 176127,
+    "active": true,
+    "lastSale": "2018-07-09T22:16:57Z"
+  },
+  {
+    "name": "Mayert-Weimann",
+    "cuit": "775962142-6",
+    "concepts": [28147, 5477, 89240, 39673, 64480, 11472],
+    "currentBalance": 358573,
+    "active": true,
+    "lastSale": "2021-03-06T08:24:46Z"
+  },
+  {
+    "name": "Barton-Leffler",
+    "cuit": "990259565-0",
+    "concepts": [78757, 3093, 34912, 70024, 82745, 32956],
+    "currentBalance": 818794,
+    "active": true,
+    "lastSale": "2018-09-30T17:26:16Z"
+  },
+  {
+    "name": "Thompson, Tillman and Wilkinson",
+    "cuit": "988394395-4",
+    "concepts": [86674, 35445, 38038, 98293, 63611, 42045],
+    "currentBalance": 978860,
+    "active": false,
+    "lastSale": "2021-03-30T14:22:53Z"
+  },
+  {
+    "name": "Ullrich-Shields",
+    "cuit": "503528959-1",
+    "concepts": [3318, 74977, 60516, 17874, 23189, 49740],
+    "currentBalance": 64881,
+    "active": true,
+    "lastSale": "2018-06-16T09:52:05Z"
+  },
+  {
+    "name": "Macejkovic Inc",
+    "cuit": "094745245-1",
+    "concepts": [6536, 33855, 92836, 14488, 35114, 13760],
+    "currentBalance": 858748,
+    "active": true,
+    "lastSale": "2019-08-26T18:21:48Z"
+  },
+  {
+    "name": "Bahringer-Sipes",
+    "cuit": "200659398-6",
+    "concepts": [71983, 61039, 1548, 28646, 21060, 2858],
+    "currentBalance": 490618,
+    "active": false,
+    "lastSale": "2018-01-11T04:26:11Z"
+  }
+]
