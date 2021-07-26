@@ -1,8 +1,10 @@
-const logger = require('../utils/logger');
 const express = require('express');
+const { getCommerces, createCommerce } = require('../controllers/store.controller');
+const validate = require('../middlewares/validate');
+const authenticate = require('../middlewares/authenticate');
 const router = express.Router();
 
-router.route('/stores')
-  .get(function(){logger.info("pending validations")}, function(){logger.info("pending use case")});
+router.get('/stores', authenticate, validate.getCommerces, getCommerces);
+router.post('/stores', authenticate, validate.postCommerce, createCommerce);
 
 module.exports = router;
